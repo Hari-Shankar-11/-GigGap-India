@@ -1,0 +1,37 @@
+state_name,has_gig_law,law_passed_date,gazette_date,enforcement_status,protection_status,key_features,has_passed_date,has_gazette_date,has_features
+Andhra Pradesh,No,,,No Law,No_Law,,0,0,0
+Arunachal Pradesh,No,,,No Law,No_Law,,0,0,0
+Assam,No,,,No Law,No_Law,,0,0,0
+Bihar,Yes,2025-05-01,2025-07-24,Enforced,Enforced,"Unique IDs, maternity leave, accident compensation Rs 4 lakh, disability and hospitalization aid, welfare fund",1,1,1
+Chhattisgarh,No,,,No Law,No_Law,,0,0,0
+Delhi,No,,,Discussions,Discussions,Ongoing policy discussions and labour-code implementation. No formal Act yet,0,0,1
+Goa,No,,,No Law,No_Law,,0,0,0
+Gujarat,No,,,In Progress,In_Progress,Welfare board and welfare fund proposals under consideration in 2026,0,0,1
+Haryana,No,,,No Law,No_Law,,0,0,0
+Himachal Pradesh,No,,,No Law,No_Law,,0,0,0
+Jharkhand,Yes,2025-08-01,2026-01-06,Enforced,Enforced,"Welfare Board, minimum wages, insurance, maternity benefits, penalties up to Rs 10 lakh",1,1,1
+Karnataka,Yes,2025-09-11,2025-09-12,Enforced,Enforced,"Welfare Board, mandatory registration, welfare fund, algorithm transparency, grievance via IPGRS. Live May 2026",1,1,1
+Kerala,No,,,Discussions,Discussions,Ongoing policy discussions and labour-code implementation affecting gig workers. No formal Act yet,0,0,1
+Madhya Pradesh,No,,,No Law,No_Law,,0,0,0
+Maharashtra,No,,,In Progress,In_Progress,Draft proposals 2025-26. Health insurance and worker registration schemes under consideration,0,0,1
+Manipur,No,,,No Law,No_Law,,0,0,0
+Meghalaya,No,,,No Law,No_Law,,0,0,0
+Mizoram,No,,,No Law,No_Law,,0,0,0
+Nagaland,No,,,No Law,No_Law,,0,0,0
+Odisha,No,,,No Law,No_Law,,0,0,0
+Punjab,No,,,No Law,No_Law,,0,0,0
+Rajasthan,Yes,2023-07-24,2023-08-01,Enforced,Enforced,"India's first gig law. Welfare Board, mandatory registration, welfare fund, accident insurance, grievance redressal, fines up to Rs 5 lakh",1,1,1
+Sikkim,No,,,No Law,No_Law,,0,0,0
+Tamil Nadu,Partial,2023-01-01,,Partial,Partial,Not a standalone gig law. Existing welfare board protections extended to include platform and gig workers in 2023,1,0,1
+Telangana,Yes,2026-03-01,,Enforced,Enforced,"5th Indian state with dedicated gig workers act. Registration, welfare board, social security schemes. Passed March-May 2026",1,0,1
+Tripura,No,,,No Law,No_Law,,0,0,0
+Uttar Pradesh,No,,,No Law,No_Law,,0,0,0
+Uttarakhand,No,,,No Law,No_Law,,0,0,0
+West Bengal,No,,,No Law,No_Law,,0,0,0
+Andaman and Nicobar Islands,No,,,No Law,No_Law,,0,0,0
+Chandigarh,No,,,No Law,No_Law,,0,0,0
+Dadra and Nagar Haveli and Daman and Diu,No,,,No Law,No_Law,,0,0,0
+Jammu and Kashmir,No,,,No Law,No_Law,,0,0,0
+Ladakh,No,,,No Law,No_Law,,0,0,0
+Lakshadweep,No,,,No Law,No_Law,,0,0,0
+Puducherry,No,,,No Law,No_Law,,0,0,0
