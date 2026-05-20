@@ -1,0 +1,26 @@
+event_id,state_or_centre,policy_name,event_type,event_date,enforcement_status,notes
+1,Central,Code on Wages 2019,Bill Passed,2019-08-08,Not Enforced,First central law mentioning gig workers
+2,Central,Code on Social Security 2020,Bill Passed,2020-09-22,Not Enforced,Recognised gig workers as separate category for first time
+3,Central,Code on Social Security 2020,Gazette Notified,2020-09-28,Not Enforced,Notified in gazette but never brought into force as of 2026
+4,Central,e-Shram Portal Launch,Portal Launch,2021-08-26,Active,National registration portal for unorganised workers launched
+5,Central,NITI Aayog Gig Economy Report,Policy Report,2022-06-27,Advisory Only,Estimated 7.7M gig workers in 2020-21 projected to 23.5M by 2029-30
+6,Central,e-Shram Gig Worker Separate Category,Feature Added,2024-01-01,Active,Dedicated gig and platform worker registration category added to eShram
+7,Rajasthan,Rajasthan Platform Based Gig Workers Registration and Welfare Act 2023,Bill Passed,2023-07-24,Enforced,India's first dedicated gig worker welfare law
+8,Rajasthan,Rajasthan Gig Workers Act Gazette Notification,Gazette Notified,2023-08-01,Enforced,"Welfare Board, mandatory registration, welfare fund, accident insurance, grievance redressal, fines up to Rs 5 lakh"
+9,Tamil Nadu,Tamil Nadu Welfare Board Extension to Platform Workers,Welfare Board Extended,2023-01-01,Partial,Not a standalone gig law. Existing welfare board protections extended to include platform and gig workers
+10,Bihar,Bihar Platform-Based Gig Workers (Registration Safety and Welfare) Act 2025,Bill Passed,2025-05-01,Enforced,Passed May 2025. Gazette July 24 2025. Compensation schemes active
+11,Bihar,Bihar Gig Workers Act Gazette Notification,Gazette Notified,2025-07-24,Enforced,"Unique IDs, maternity leave, accident compensation Rs 4 lakh, disability and hospitalization aid, welfare fund"
+12,Karnataka,Karnataka Gig Workers Ordinance,Ordinance Approved,2025-05-01,Enforced,Ordinance approved May 2025. Included welfare fee collection from platforms like Swiggy and Uber
+13,Karnataka,Karnataka Platform-Based Gig Workers (Social Security and Welfare) Act 2025,Governor Assent,2025-09-11,Enforced,Full welfare law passed after ordinance. Governor assent Sept 11 2025
+14,Karnataka,Karnataka Gig Workers Act Gazette Notification,Gazette Notified,2025-09-12,Enforced,"Gazette Sept 12 2025. Welfare Board, mandatory registration, algorithm transparency, grievance via IPGRS"
+15,Karnataka,Karnataka Gig Workers Grievance System Operational,Enforcement Milestone,2026-05-01,Enforced,Grievance redressal system live May 1 2026
+16,Jharkhand,Jharkhand Platform Based Gig Workers Bill 2025,Bill Passed,2025-08-01,Enforced,Passed August 2025
+17,Jharkhand,Jharkhand Gig Workers Act Governor Assent,Governor Assent,2025-12-13,Enforced,Governor assent Dec 13 2025
+18,Jharkhand,Jharkhand Gig Workers Act Gazette Notification,Gazette Notified,2026-01-06,Enforced,"Gazette Jan 6 2026. Welfare Board, minimum wages, insurance, maternity benefits, penalties up to Rs 10 lakh"
+19,Telangana,Telangana Gig Workers Bill,Bill Introduced,2025-01-01,Enforced,Bill introduced 2025 in assembly
+20,Telangana,Telangana Comprehensive Gig Workers Welfare Act 2026,Bill Passed,2026-03-01,Enforced,"Passed and approved March-May 2026. Became 5th Indian state with dedicated gig workers act. Registration, welfare board, social security schemes"
+21,Maharashtra,Maharashtra Gig Worker Protection Draft Proposal,Policy Initiative,2025-01-01,In Progress,Government discussions and draft proposals 2025-26. Health insurance and worker registration schemes under consideration
+22,Gujarat,Gujarat Gig Worker Welfare Board Proposal,Policy Initiative,2026-01-01,In Progress,State government considering welfare board and welfare fund proposals in 2026
+23,Kerala,Kerala Gig Worker Policy Discussions,Policy Discussion,2025-01-01,Discussions,Ongoing policy discussions and labour-code implementation affecting gig workers. No formal Act or Bill yet
+24,Delhi,Delhi Gig Worker Policy Initiatives,Policy Discussion,2024-01-01,Discussions,Ongoing policy discussions and labour-code implementation. Exploring welfare schemes and registration drives. No formal Act yet
+25,Central,Code on Social Security Still Not Enforced,Status Update,2026-05-01,Not Enforced,"Despite 6 years since passing, central law remains unenforced as of May 2026"
